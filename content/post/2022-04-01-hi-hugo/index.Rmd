@@ -5,7 +5,7 @@ date: '2022-04-01'
 slug: hi-test
 categories: [test,]
 tags: [r,.Rmd]
-draft: yes
+draft: no
 ---
 
 Este es un test

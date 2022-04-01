@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://pjcl.netlify.app
 title: PJCL
 paginate: 5
 theme: PaperMod
