@@ -55,7 +55,7 @@ Read Wiki For More Details => **[PaperMod - Features](https://github.com/adityat
 
 ## Install/Update 📥
 
-Read Wiki For More Details => **[PaperMod - Installation](https://github.com/adityatelange/hugo-PaperMod/wiki/Installation)**
+Read Wiki For More Details => **[PaperMod - Installation](blogdown::check_content())**
 
 ---
 
