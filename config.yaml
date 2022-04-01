@@ -1,7 +1,7 @@
 baseurl: /
 title: PJCL
 paginate: 5
-theme: papermod
+theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
